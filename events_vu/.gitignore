@@ -1,0 +1,15 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
+
+lib/secrets.dart
+
+android/app/src/main/res/values/secrets.xml
+
+android/app/google-services.json
